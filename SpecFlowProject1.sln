@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject1", "SpecFlowProject1\SpecFlowProject1.csproj", "{A754048E-964A-49CA-B128-2881245E8BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcExample", "CalcExample\CalcExample.csproj", "{2877E2EA-7C0C-4CCF-8004-35790464B2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A754048E-964A-49CA-B128-2881245E8BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A754048E-964A-49CA-B128-2881245E8BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A754048E-964A-49CA-B128-2881245E8BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A754048E-964A-49CA-B128-2881245E8BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2877E2EA-7C0C-4CCF-8004-35790464B2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2877E2EA-7C0C-4CCF-8004-35790464B2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2877E2EA-7C0C-4CCF-8004-35790464B2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2877E2EA-7C0C-4CCF-8004-35790464B2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967D3C6B-A5D2-4B68-B8AE-854CB3A0669D}
+	EndGlobalSection
+EndGlobal
